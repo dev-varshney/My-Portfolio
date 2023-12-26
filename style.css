@@ -252,6 +252,7 @@ section{
 }
 .about-pic{
     border-radius: 2rem;
+    margin-top: 40px;
 }
 .arrow-icon{
     height:40px;
